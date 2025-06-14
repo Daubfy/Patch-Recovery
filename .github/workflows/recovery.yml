@@ -9,7 +9,7 @@ on:
         default: 'https://bashupload.com/ZYaJ6/recovery.img'
 
 env:
-  RECOVERY_URL: https://bashupload.com/ZYaJ6/recovery.img
+  RECOVERY_URL: https://bashupload.com/UACnL/recovery.img
 
 jobs:
   build:
